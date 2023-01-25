@@ -1,0 +1,11 @@
+h1{
+    color: red;
+}
+#kep{
+    border: 3px;
+    border-style: dashed;
+    border-color: black;
+}
+div{
+    text-align: center;
+}
